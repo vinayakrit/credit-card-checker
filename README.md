@@ -23,14 +23,15 @@ How Algo. works
  
 5. if add%10 = 0 then valid card
 	Luhn says if total sum mod 10 is zero then valid
+	
 Ex.
 step 1: 
 	suppose credit card number is 9878945622378945
  so number = 78945622378945
 doubling of every second digit is
-	4*2=8			2*2=4			7*2=14 => 1+4=5
-	8*2=16 => 1+6=7		5*2=10 => 1+0=1		9*2=18 => 1+8=9
-	3*2=6			9*2=18 => 1+8=9
+	4*2=8		  	2*2=4		  	7*2=14 => 1+4=5
+	8*2=16 => 1+6=7	  	5*2=10 => 1+0=1	  	9*2=18 => 1+8=9
+	3*2=6		  	9*2=18 => 1+8=9  
 
 step 2:
 	add1= 8 + 7 + 6 + 4 + 1 + 9 + 5 + 9 = 49
