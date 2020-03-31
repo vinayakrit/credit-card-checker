@@ -1,4 +1,4 @@
-# credit-card-checker
+# credit-card-validation
 // vinayakrit
 
 // Vinayak Patil
