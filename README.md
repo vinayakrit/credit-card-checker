@@ -1,6 +1,8 @@
 # credit-card-checker
 // vinayakrit
+
 // Vinayak Patil
+
 // This code is made of an education purpose to show how Luhn algo. works, no other intend behind this code
 //have a errorless journey
 
